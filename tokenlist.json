@@ -1,0 +1,19 @@
+{
+  "name": "My Token List",
+  "timestamp": "2025-07-29T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xFakeUSDT1234567890abcdef1234567890abcdef",
+      "name": "Fake USDT",
+      "symbol": "fUSDT",
+      "decimals": 18,
+      "logoURI": "https://yourusername.github.io/tokenlist/images/0x5b134F558ccAa17AbBd28506B8b47B7F7c770ef0.png"
+    }
+  ]
+}
